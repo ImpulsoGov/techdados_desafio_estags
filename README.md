@@ -12,6 +12,7 @@ Este arquivo contém as instruções para os desafios de estágio em **Desenvolv
   - anapaula@impulsogov.org
   - dandara@impulsogov.org
   - fernanda@impulsogov.org
+- Caso seja escolhido(a), o resultado de seu desafio pode ser integrada numa parte da ferramenta.
 
 
 ---
