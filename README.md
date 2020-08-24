@@ -1,7 +1,7 @@
 # Desafio ImpulsoGov | Estágio Tech & Dados 🎲
 
 ## Instruções gerais
-Este arquivo contém as instruções para os desafios de estágio em **Desenvolvimento** e **Modelagem e Análise de Dados** - resolva somente o desafio da vaga que você escolheu. Ambos os desafios são compostos por 2 questões, uma descritiva e outra na qual você deve implementar algum código em Python 🐍.
+Este arquivo contém as instruções para os desafios de estágio em **Desenvolvimento** e **Modelagem e Análise de Dados** - resolva somente o desafio para 1 (uma) vaga. Ambos os desafios são compostos por 2 questões, uma descritiva e outra na qual você deve implementar algum código em Python 🐍.
 
 ### Avisos importantes ‼️
 - A ImpulsoGov repudia qualquer forma de cópia de código sem as devidas referências à fonte - esperamos bom senso quanto à utilização de trechos de códigos de outrem;
